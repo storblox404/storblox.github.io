@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: GANTI_ALAMAT_SITUS/sitemap.xml
