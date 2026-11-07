@@ -17,6 +17,6 @@ window.APP_CONFIG = {
   APK_SIZE: "",                // (ISI) contoh: "9 MB"
   APK_SHA256: "sha256:6aac2745150aacea67b34db157e58c77138c1f48a4d50cf55fe6186b29c2b423",              // (ISI) sidik jari file APK (cara membuatnya ada di tutorial)
 
-  CONTACT_EMAIL: "",           // (ISI) email kontak yang tampil di halaman Privasi dan Ketentuan
+  CONTACT_EMAIL: "haloword1345@gmail.com",           // (ISI) email kontak yang tampil di halaman Privasi dan Ketentuan
   SITE_URL: ""                 // (ISI) contoh: "https://namakamu.github.io"
 };
