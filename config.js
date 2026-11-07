@@ -12,7 +12,7 @@ window.APP_CONFIG = {
 
   // (ISI) Link unduh APK. Contoh dari GitHub Releases:
   // "https://github.com/NAMAKAMU/storblox/releases/download/v1.0/Storblox.apk"
-  APK_URL: "",
+  APK_URL: "https://github.com/storblox404/storblox.github.io/releases/download/V1.0/Storblox-1.0.apk",
   APK_VERSION: "1.0",          // (ISI) versi aplikasi
   APK_SIZE: "",                // (ISI) contoh: "9 MB"
   APK_SHA256: "sha256:6aac2745150aacea67b34db157e58c77138c1f48a4d50cf55fe6186b29c2b423",              // (ISI) sidik jari file APK (cara membuatnya ada di tutorial)
